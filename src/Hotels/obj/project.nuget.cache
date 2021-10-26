@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YFII3PIVHU8e+w6aq1xvv0yrfShCUjEq2EqQeNOqg7hEZ6eLK5R6dQCKwLhmNKFqG0GubaEImksquS2iBlZayA==",
+  "dgSpecHash": "WDadp3Yk6GomqrgZGFR1jOxiWdUokoM5US79SsaZqN1Le3f3Ck5mgruG8PaycbFSHafKgKAR74uZtGNYwkUCqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Documents\\GitHub\\WebAPIRESTLAB01\\src\\Hotels\\Hotels.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\GitHub\\WebAPIRESTLAB01\\src\\hotels\\Hotels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
